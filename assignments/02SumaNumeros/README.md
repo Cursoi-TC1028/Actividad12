@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Suma números
+# Suma de números hasta 1000
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama
 `exercise.py` y que contiene el siguiente código:
@@ -15,42 +15,30 @@ if __name__ == '__main__':
 La línea `#escribe tu código abajo de esta línea` es un comentario,
 el programa la va a ignorar al ejecutarse.
 
-Escribe un programa que sume los números enteros (positivos y negativos) que el usuario teclee y se detenga hasta que el usuario teclee un cero.
+####<h3> Suma de números hasta 1000 </h3>
+Escribe un programa que lea del teclado números enteros y los vaya contando y sumando. El programa se debe detener cuando la suma de los números leídos sea 1000 o más.
+Cuando la suma sea 1000 o más, el programa debe mostrar el total de la suma, y la cantidad de números que se sumaron.
 
-#### Entrada
-Una secuencia de números enteros positivos o negativos. La secuencia debe terminar con un 0.
+####Entrada
+varios números uno en cada linea  
 
-#### Salida
-La suma de los números tecleados.
+####Salida
+la  suma de todos los  números y la cantidad que dice cuantos números se sumaron.
+
+Ejemplos de ejecución del programa
+Si se teclea
+<br>>>>100
+<br>>>>50
+<br>>>>200
+<br>>>>430
+<br>>>>250
+
+<br>El programa mostrará
+<br>suma = 1030
+<br>cantidad de números = 5
 
 #### NOTA IMPORTANTE:
 Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
-
-El programa debe funcionar de la siguiente forma:
-
-```
-1
-2
-0
-3
-
-100
-200
-0
-300
-
-1
--1
-0
-0
-
-1
-2
-3
-0
-6
-
-```
 
 **Nota:** No te preocupes por esta parte del código
 `if __name__ == '__main__':` por el momento.
