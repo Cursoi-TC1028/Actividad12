@@ -23,13 +23,13 @@ Realiza un programa que lea un número y muestre un mensaje indicando si es perf
 <br>un números que es el numero a verificar  
 
 ### Salida
-<br>la leyenda "El numero es perfecto" o "El NO es numero perfecto"  dependiendo del caso
+<br>la leyenda "El número es perfecto" o "El NO es némero perfecto"  dependiendo del caso
 
 ## Ejemplos de ejecución del programa
 <br>Si se teclea
 <br>6
 <br>El programa mostrará
-<br>El numero es perfecto
+<br>El número es perfecto
 #### NOTA IMPORTANTE:
 Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
 
