@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Cuenta números
+# Numero Perfecto
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama
 `exercise.py` y que contiene el siguiente código:
@@ -14,61 +14,24 @@ if __name__ == '__main__':
 La línea `#escribe tu código abajo de esta línea` es un comentario,
 el programa la va a ignorar al ejecutarse.
 
-Agrega una nueva línea abajo del comentario con el código para que lea un número positivo n,
-e imprima todos los números en orden desde el 1 hasta n.
-Cada uno de los números debe ser impreso en una linea por separado.
+Los divisores propios de un número n son aquellos divisores positivos menores que n.
+Un número entero positivo n se dice que es perfecto si la suma de sus divisores propios es igual a n.
+Realiza un programa que lea un número y muestre un mensaje indicando si es perfecto o no.
 
-#### Entrada
-Un número entero positivo n
 
-#### Salida
-Los números enteros desde 1 hasta n, uno en cada renglón
+###Entrada
+<brun números que es el numero a verificar  
 
+###Salida
+<brla leyenda "El numero es perfecto" o "El NO es numero perfecto"  dependiendo del caso
+
+##Ejemplos de ejecución del programa
+<brSi se teclea
+<br>6
+<brEl programa mostrará
+<brEl numero es perfecto
 #### NOTA IMPORTANTE:
 Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
-
-La salida del programa debe de ser exactamente de la siguiente forma:
-
-```
-5
-1
-2
-3
-4
-5
-
-
-
-15
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-
-10
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-
-```
 
 **Nota:** No te preocupes por esta parte del código
 `if __name__ == '__main__':` por el momento.
