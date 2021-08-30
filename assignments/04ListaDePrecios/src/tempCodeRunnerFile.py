@@ -1,1 +1,0 @@
-        print("Teclea la clave")

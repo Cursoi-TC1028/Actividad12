@@ -24,7 +24,7 @@ sudo -H pip3 install pytest
 - ## 03 Suma Hasta N
     ### Run command
     ```
-    pytest assignments/03SumaHastaN
+    pytest assignments/03NumeroPrimo
     ```
 
 - ## 04 Lista de Precios
