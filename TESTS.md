@@ -12,7 +12,7 @@ sudo -H pip3 install pytest
 - ## 01 Cuenta Números
     ### Run command
     ```
-    pytest assignments/01CuentaNumeros 
+    pytest assignments/01RangoParesSimple 
     ```
 
 - ## 02 Suma Números
