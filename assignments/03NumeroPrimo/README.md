@@ -19,17 +19,17 @@ Un número entero positivo n se dice que es perfecto si la suma de sus divisores
 Realiza un programa que lea un número y muestre un mensaje indicando si es perfecto o no.
 
 
-###Entrada
-<brun números que es el numero a verificar  
+### Entrada
+<br>un números que es el numero a verificar  
 
-###Salida
-<brla leyenda "El numero es perfecto" o "El NO es numero perfecto"  dependiendo del caso
+### Salida
+<br>la leyenda "El numero es perfecto" o "El NO es numero perfecto"  dependiendo del caso
 
-##Ejemplos de ejecución del programa
-<brSi se teclea
+## Ejemplos de ejecución del programa
+<br>Si se teclea
 <br>6
-<brEl programa mostrará
-<brEl numero es perfecto
+<br>El programa mostrará
+<br>El numero es perfecto
 #### NOTA IMPORTANTE:
 Tu programa NO debe incluir ningún mensaje para pedir los datos y la salida debe coincidir exactamente con el formato y/o tipo de dato que se te pide como salida.
 
